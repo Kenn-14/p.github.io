@@ -6,7 +6,7 @@ body, html {
 
 body {
   margin: 0;
-  background-color: blue;
+  background-color: lightskyblue;
   position: relative;
   perspective: 800px;
   overflow: hidden;
@@ -343,11 +343,11 @@ body {
 @keyframes letter-out {
   0% {
     transform: translate3d(0, 0, 0);
-    box-shadow: 0 0px 30px -5px #fbc0b9eb;
+    box-shadow: 0 0px 30px -5px #76f1fceb;
   }
   100% {
     transform: translate3d(0, -733.33333px, 0);
-    box-shadow: 0 0px 30px -5px #fbc0b9eb;
+    box-shadow: 0 0px 30px -5px #76f1fceb;
   }
 }
 @keyframes send {
@@ -493,7 +493,7 @@ body, html {
 
 body {
   margin: 0;
-  background-color: mistyrose;
+  background-color: lightskyblue;
   position: relative;
   perspective: 800px;
   overflow: hidden;
@@ -521,7 +521,7 @@ body {
   height: 100%;
   background-color: #FFF;
   border-radius: 5px;
-  box-shadow: 0 0 30px -5px #fbc0b9eb;
+  box-shadow: 0 0 30px -5px #76f1fceb;
 }
 
 .envelope .front {
@@ -686,7 +686,7 @@ body {
   border-radius: 5px;
   padding: 0 30px;
   box-sizing: border-box;
-  box-shadow: 0px 1px 100px #fbc0b9eb;
+  box-shadow: 0px 1px 100px #76f1fceb;
 }
 
 .envelope .back .letter div {
@@ -830,11 +830,11 @@ body {
 @keyframes letter-out {
   0% {
     transform: translate3d(0, 0, 0);
-    box-shadow: 0 0px 30px -5px #fbc0b9eb;
+    box-shadow: 0 0px 30px -5px #76f1fceb;
   }
   100% {
     transform: translate3d(0, -733.33333px, 0);
-    box-shadow: 0 0px 30px -5px #fbc0b9eb;
+    box-shadow: 0 0px 30px -5px #76f1fceb;
   }
 }
 @keyframes send {
