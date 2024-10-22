@@ -34,7 +34,7 @@ body {
   height: 100%;
   background-color: #FFF;
   border-radius: 5px;
-  box-shadow: 0 0 30px -5px #fbc0b9eb;
+  box-shadow: 0 0 30px -5px #76f1fceb;
 }
 
 .envelope .front {
@@ -199,7 +199,7 @@ body {
   border-radius: 5px;
   padding: 0 30px;
   box-sizing: border-box;
-  box-shadow: 0px 1px 100px #fbc0b9eb;
+  box-shadow: 0px 1px 100px #76f1fceb;
 }
 
 .envelope .back .letter div {
